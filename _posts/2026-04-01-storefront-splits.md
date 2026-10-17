@@ -4,6 +4,14 @@ date: 2026-04-01 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Platforms]
 description: "The cut a storefront takes changes a game's margin by more than most teams expect. Here is how revenue splits steer launch decisions and funding choices."
+permalink: "/storefront-splits-decide-which-games-get-made/"
+subtitle: "The gap between a 12% and 30% storefront cut is $10.80 per $60 game, enough to steer where games launch."
+keywords: "storefronts, revenue splits, Steam, Epic Games Store, platform fees"
+key_points:
+  - "Epic takes 12%; Steam, PlayStation Store and the App Store default to 30%."
+  - "Tiered rates kick in above revenue thresholds on most platforms."
+  - "High splits push free-to-play revenue models toward PC and mobile."
+  - "Model your real margin at each store's rate before choosing a launch platform."
 ---
 
 The Epic Games Store takes 12% of every sale, while Steam, the PlayStation Store, and the App Store take 30% by default. On a $60 game, that gap is $10.80 per copy, and across a million copies it's money that decides where a game launches.

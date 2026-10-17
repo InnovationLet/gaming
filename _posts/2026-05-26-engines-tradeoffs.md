@@ -4,6 +4,14 @@ date: 2026-05-26 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Engines]
 description: "Every engine choice trades money, control, or hiring flexibility for something else. Here is what studios give up, and how to pick with your eyes open."
+permalink: "/the-trade-offs-studios-accept-when-choosing-an-engine/"
+subtitle: "Every engine choice trades money, control or hiring flexibility. Here is what to price in."
+keywords: "game engines, Unreal Engine, Unity, in-house engines, studio tooling"
+key_points:
+  - "Unreal charges no subscription but takes 5% of revenue past $1 million."
+  - "In-house engines cost salaries whether the game sells or not."
+  - "Off-the-shelf engines bring a talent pool and create pricing dependency."
+  - "Prototype a vertical slice in two engines before committing."
 ---
 
 When Unity announced a per-install fee in September 2023, studios that had shipped years of titles on the engine spent a week running spreadsheets to figure out what they'd owe. The policy got walked back, but the reaction showed how deeply an engine choice locks into a business.

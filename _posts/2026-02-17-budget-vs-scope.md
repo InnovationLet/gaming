@@ -4,6 +4,14 @@ date: 2026-02-17 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Studios]
 description: "Production budgets at major studios keep climbing, and the way teams respond is by narrowing what their games actually try to do. Here is how the scope trade-off plays out."
+permalink: "/ballooning-budgets-are-squeezing-game-scope/"
+subtitle: "With prices stuck at $70 and budgets past $300 million, studios cut everything around the headline feature."
+keywords: "game budgets, studios, production costs, scope, publishers"
+key_points:
+  - "AAA development budgets have passed $300 million while prices stayed flat."
+  - "Studios trim side content and modes before cutting the headline feature."
+  - "Rising costs mean fewer greenlights and bigger swings per project."
+  - "Mid-budget games, the creative tier of the 2000s, are shrinking fastest."
 ---
 
 Spider-Man 2 was reported to cost more than $300 million to develop, a figure that would have been unthinkable a decade ago. At $70 a copy, a studio has to move millions of units before a single dollar of profit shows up. That math is now reshaping what big studios build.

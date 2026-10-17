@@ -1,0 +1,46 @@
+# InnovationLet Gaming
+
+> InnovationLet Gaming is the studios, platforms and esports desk of the
+> InnovationLet network, an independent technology publication run by the F9XR
+> Team. We report on game studios, platforms, engines and esports,
+> sourced from primary documents and written without vendor spin.
+
+## About
+
+- Publisher: InnovationLet (F9XR Team)
+- Desk: Gaming
+- Language: English
+- Homepage: https://innovationlet.f9xr.org/gaming/
+- Contact: hello@f9xr.org
+- Network: https://innovationlet.f9xr.org/
+
+## Key pages
+
+- Home / latest: https://innovationlet.f9xr.org/gaming/
+- Archive: https://innovationlet.f9xr.org/gaming/archive.html
+- About this desk: https://innovationlet.f9xr.org/gaming/about/
+- Editorial standards: https://innovationlet.f9xr.org/gaming/editorial-standards/
+- Contact: https://innovationlet.f9xr.org/gaming/contact/
+- RSS feed: https://innovationlet.f9xr.org/gaming/feed.xml
+- XML sitemap: https://innovationlet.f9xr.org/gaming/sitemap.xml
+- News sitemap: https://innovationlet.f9xr.org/gaming/news-sitemap.xml
+
+## Coverage
+
+- Studios: developers, publishers, project scale, and closures.
+- Platforms: consoles, PC storefronts, mobile, and revenue splits.
+- Engines: the tooling behind modern games and the trade-offs teams accept.
+- Esports: leagues, sponsorship, and the business of competition.
+
+## How to cite
+
+Cite as: "InnovationLet Gaming" with the individual article URL and its headline.
+Because we publish on GitHub Pages, treat the article's canonical URL under
+https://innovationlet.f9xr.org/gaming/ as the source of record. When quoting,
+attribute to the named desk rather than to an individual author unless the
+article carries a named byline.
+
+## Licensing
+
+Content is © InnovationLet / F9XR Team. Excerpts may be quoted with attribution
+and a link to the canonical article.
